@@ -1,4 +1,4 @@
-#TO RUN
+# TO RUN
 ```
 npm instal && npm run dev
 ```
@@ -12,6 +12,6 @@ It aslo runs a simulation connecting the poins in order of cities to travel to.
 The alogrithm is using closest city from the one your on then works out the next and so on.
 The graph data structre is logged out if you look at the chrome developer console
 
-Further Work:
+# Further Work:
 * Implement the nearest neighbout algorithm by traversing the Graph
 * Find all Hamiltonian cycles in the graph
